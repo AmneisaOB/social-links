@@ -24,7 +24,7 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 90vh;
+  min-height: 100vh;
 }
 .card-container {
   padding: 2rem;
